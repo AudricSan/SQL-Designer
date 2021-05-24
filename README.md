@@ -23,7 +23,7 @@ If you wish to support this project, <a href='https://www.paypal.com/cgi-bin/web
 1. `instal WAMP` https://www.wampserver.com/en/
 2. Run `Wamp Server`
 3. put the download and unzip file in the WWW file in the wamp installation
-4. got to localhost/ 'yourfilesname'
+4. got to localhost/`yourfilesname`
 
 
 # News
