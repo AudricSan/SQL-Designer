@@ -15,7 +15,7 @@ var CONFIG = {
 	RELATION_HIGHLIGHTED_COLOR: "#FF0000",
 	RELATION_HIGHLIGHTED_THICKNESS: 5,
 	
-	STYLES: ["material-inspired", "original"],
+	STYLES: ["material-inspired", "material-inspired-shadow"],
 	MATERIAL_RELATION_COLORS: ["#323232", "#F44336", "#E91E63", "#9C27B0", "#3F51B5", "#673AB7", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFC107", "#FF5722", "#795548", "#607D8B"],
 	
 	STATIC_PATH: "",
