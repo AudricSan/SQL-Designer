@@ -169,7 +169,7 @@ SQL.Designer.prototype.getCookie = function() {
 	var parts = c.split(";");
 	for (var i=0;i<parts.length;i++) {
 		var part = parts[i];
-		var r = part.match(/wwwsqldesigner=({.*?})/);
+		var r = part.match(/sqldesigner=({.*?})/);
 		if (r) { obj = eval("("+r[1]+")"); }
 	}
 	return obj;
