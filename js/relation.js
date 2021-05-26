@@ -15,7 +15,7 @@ SQL.Relation = function(owner, row1, row2) {
 		case "material-inspired": 
 			this.relationColors = CONFIG.MATERIAL_RELATION_COLORS;
 			break;
-		case "original": 
+		case "material-inspired-shadow": 
 		default:
 			this.relationColors = CONFIG.RELATION_COLORS;
 	}
