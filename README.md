@@ -27,24 +27,4 @@ If you wish to support this project, <a href='https://www.paypal.com/cgi-bin/web
 # News
 
 ## New release
-Version 2.7 was released on 3.8.2012. This is mainly a bugfix release, although several new features (most notable localStorage support) are present.
-
-## Release
-Version 2.6 was released on 22.9.2011. Several new translations (pt\_BR, sv, ar) added; VML removed; new visualization options available (show length and datatype); new DBs and backends; support for touch devices...
-
-## Release
-Version 2.5 was released on 18.6.2010. Many new features were added (hiding of sidebar, colored relation, multi-selection and multi-drag, ...), tons of bugs were fixed.
-
-## Release
-Version 2.4 was released on 5.11.2009. Several outstanding issues were fixed and new locales added.
-
-## Release
-Version 2.3.3 was released on 28.7.2009. This long-awaited release includes numerous fixes, compatibility improvements, new locales, backends and DB datatypes.
-
-## Release
-Version 2.3.2 was released on 8.1.2009. Apart from some traditional bugfixes and locales, a new functionality is introduced - the ability to mark foregin keys between existing table fields!
-
-## 2.0 is here
-Good news: A new version of WWW SQL Designer, rewritten from scratch, is now available. It has many new features, including bezier connectors, support for various customizations, localization, options and more.
-
-Bad news: This new version is not backwards compatible with 1.x, so all old localizations and XSLT templates won't work with 2.x. Sorry for inconvenience :/
+2.7.5 - Remove Original Theme and Add Shadow Theme (WIP)
